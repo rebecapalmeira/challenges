@@ -3,3 +3,5 @@ Challenges proposed by CapGemini as part of the selection proccess for Academia 
 
 To run answers to these challenges, go to directory src and use the right button of the mouse to click on Main Class and select the command "Run Main.main()" (using Intellij IDE).
 The Class Main stores variables of input (to use as params to functions) and methods to print the answers on console.
+
+First try generating javadoc, so probably many things to improve here. 
